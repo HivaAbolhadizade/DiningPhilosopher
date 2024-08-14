@@ -34,6 +34,7 @@ plot_states(): Plots the state of each philosopher over time, showing when each 
     <li><strong>Clone the repository</strong>:</li>
     <pre><code>git clone https://github.com/yourusername/DiningPhilosopher-Synchronization.git
 cd DiningPhilosopher-Synchronization</code></pre>
+</ol>
 
 
 ## Visualization
