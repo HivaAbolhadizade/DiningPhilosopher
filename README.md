@@ -40,5 +40,11 @@ cd DiningPhilosopher-Synchronization</code></pre>
 ## Visualization
 The states of the philosophers (Thinking, Hungry, Eating) are logged during the simulation and can be visualized using a line plot. Each philosopher's state over time is plotted to help understand how often each philosopher eats and if any starvation or deadlock conditions occur.
 
+![Figure 2024-06-10 090828](https://github.com/user-attachments/assets/81ce546e-0692-4280-ba96-3bce9e94b0b9)
+
+![Figure 2024-06-10 091339](https://github.com/user-attachments/assets/d60cd3b5-36ca-4dea-a7b1-8e833ef5a5b2)
+
+
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
