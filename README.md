@@ -35,12 +35,6 @@ plot_states(): Plots the state of each philosopher over time, showing when each 
     <pre><code>git clone https://github.com/yourusername/DiningPhilosopher-Synchronization.git
 cd DiningPhilosopher-Synchronization</code></pre>
 
-    <li><strong>Run the script</strong>:</li>
-    <pre><code>python dining_philosopher.py</code></pre>
-
-    <li><strong>Stop the simulation</strong>:</li>
-    <p>The simulation will run indefinitely. To stop it, press <code>Ctrl+C</code>. This will gracefully stop all philosopher threads and generate a plot showing their states over time.</p>
-</ol>
 
 ## Visualization
 The states of the philosophers (Thinking, Hungry, Eating) are logged during the simulation and can be visualized using a line plot. Each philosopher's state over time is plotted to help understand how often each philosopher eats and if any starvation or deadlock conditions occur.
